@@ -1,0 +1,12 @@
+﻿  GameData.cpp
+  HealthBar.cpp
+  Main.cpp
+d:\Users\BLY1\Downloads\SFML_Sample\SFML_Sample\Main.cpp(23,58): warning C4244: '=' : conversion de 'sf::Int32' en 'float', perte possible de données
+  ManaBar.cpp
+  ProgressBar.cpp
+d:\Users\BLY1\Downloads\SFML_Sample\SFML_Sample\ProgressBar.cpp(18,35): error C2761: 'void ProgressBar::setPosition(int,int)' : la redéclaration du membre n'est pas autorisée
+d:\Users\BLY1\Downloads\SFML_Sample\SFML_Sample\ProgressBar.cpp(18,31): error C2065: 'posX' : identificateur non déclaré
+d:\Users\BLY1\Downloads\SFML_Sample\SFML_Sample\ProgressBar.cpp(18,37): error C2065: 'posY' : identificateur non déclaré
+d:\Users\BLY1\Downloads\SFML_Sample\SFML_Sample\ProgressBar.cpp(18,43): error C2143: erreur de syntaxe : absence de ';' avant '{'
+d:\Users\BLY1\Downloads\SFML_Sample\SFML_Sample\ProgressBar.cpp(18,43): error C2447: '{' : en-tête de fonction manquant (liste formelle à l'ancien format ?)
+  Génération de code en cours...
